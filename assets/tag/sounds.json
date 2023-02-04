@@ -5,5 +5,10 @@
             "tag:coin/poll",
             "tag:coin/poll_multi"
         ]
+    },
+    "menu.tick": {
+        "sounds": [
+            "tag:menu/tick"
+        ]
     }
 }
