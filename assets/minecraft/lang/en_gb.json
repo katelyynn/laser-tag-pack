@@ -1,0 +1,8 @@
+{
+  "language.code": "eng_GB",
+  "language.name": "English",
+  "language.region": "United Kingdom",
+  "chat.type.text": "%s: %s",
+  "chat.type.announcement": "%s; %s",
+  "chat.type.team.sent": "%s %s: %s"
+}
