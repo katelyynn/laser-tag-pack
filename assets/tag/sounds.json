@@ -2,7 +2,7 @@
     "coin.poll": {
         "subtitle": "Collected coins",
         "sounds": [
-            "coin/poll"
+            "tag:coin/poll"
         ]
     }
 }
