@@ -1,5 +1,6 @@
 {
     "coin.poll": {
+        "subtitle": "Collected coins",
         "sounds": [
             "coin/poll"
         ]
