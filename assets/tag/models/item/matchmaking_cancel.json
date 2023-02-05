@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "tag:item/ready"
+    "layer0": "tag:item/cancel"
   },
   "display": {
 		"thirdperson_righthand": {
@@ -26,11 +26,5 @@
 			"scale": [1, 1, 1],
 			"rotation": [0, -180, 0]
 		}
-	},
-	"overrides": [
-        { "predicate": { "custom_model_data": 1 }, "model": "tag:item/mode_solos" },
-		{ "predicate": { "custom_model_data": 2 }, "model": "tag:item/mode_teams" },
-		{ "predicate": { "custom_model_data": 3 }, "model": "tag:item/matchmaking_start" },
-		{ "predicate": { "custom_model_data": 4 }, "model": "tag:item/matchmaking_cancel" }
-    ]
+	}
 }
