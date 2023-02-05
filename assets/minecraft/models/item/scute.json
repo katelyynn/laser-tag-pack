@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "tag:item/ready"
+    "layer0": "tag:item/disabled_slot"
   },
   "display": {
 		"thirdperson_righthand": {

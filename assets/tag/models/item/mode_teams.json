@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "tag:item/ready"
+    "layer0": "tag:item/mode_teams"
   },
   "display": {
 		"thirdperson_righthand": {
@@ -25,9 +25,5 @@
 		"fixed": {
 			"scale": [1, 1, 1]
 		}
-	},
-	"overrides": [
-        { "predicate": { "custom_model_data": 0 }, "model": "tag:item/mode_solos" },
-		{ "predicate": { "custom_model_data": 0 }, "model": "tag:item/mode_teams" }
-    ]
+	}
 }
