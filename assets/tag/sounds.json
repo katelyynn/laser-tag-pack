@@ -10,5 +10,15 @@
         "sounds": [
             "tag:menu/tick"
         ]
+    },
+    "menu.open": {
+        "sounds": [
+            "tag:menu/open"
+        ]
+    },
+    "menu.close": {
+        "sounds": [
+            "tag:menu/close"
+        ]
     }
 }
