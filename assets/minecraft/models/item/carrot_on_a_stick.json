@@ -34,6 +34,8 @@
 		{ "predicate": { "custom_model_data": 4 }, "model": "tag:item/matchmaking_cancel" },
 		{ "predicate": { "custom_model_data": 5 }, "model": "tag:item/add" },
 		{ "predicate": { "custom_model_data": 6 }, "model": "tag:item/remove" },
-		{ "predicate": { "custom_model_data": 7 }, "model": "tag:item/blank_slot" }
+		{ "predicate": { "custom_model_data": 7 }, "model": "tag:item/blank_slot" },
+		{ "predicate": { "custom_model_data": 8 }, "model": "tag:item/arrow_l" },
+		{ "predicate": { "custom_model_data": 9 }, "model": "tag:item/arrow_r" }
     ]
 }
