@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "tag:maps/-1"
+    "layer0": "tag:item/map_0"
   },
   "display": {
 		"thirdperson_righthand": {
