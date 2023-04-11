@@ -39,7 +39,7 @@
 		{ "predicate": { "custom_model_data": 9 }, "model": "tag:item/arrow_r" },
 		{ "predicate": { "custom_model_data": 10 }, "model": "tag:item/ready_on" },
 		{ "predicate": { "custom_model_data": 11 }, "model": "tag:item/ready_off" },
-		{ "predicate": { "custom_model_data": 12 }, "model": "tag:item/coin3" },
+		{ "predicate": { "custom_model_data": 12 }, "model": "tag:item/coin" },
 		{ "predicate": { "custom_model_data": 13 }, "model": "tag:item/globe" },
 
 		{ "predicate": { "custom_model_data": 99 }, "model": "tag:item/map_-1" },
