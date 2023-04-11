@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "tag:item/ready"
+    "layer0": "tag:item/ready_off"
   },
   "display": {
 		"thirdperson_righthand": {
@@ -37,9 +37,11 @@
 		{ "predicate": { "custom_model_data": 7 }, "model": "tag:item/blank_slot" },
 		{ "predicate": { "custom_model_data": 8 }, "model": "tag:item/arrow_l" },
 		{ "predicate": { "custom_model_data": 9 }, "model": "tag:item/arrow_r" },
+		{ "predicate": { "custom_model_data": 10 }, "model": "tag:item/ready_on" },
+		{ "predicate": { "custom_model_data": 11 }, "model": "tag:item/ready_off" },
 
-		{ "predicate": { "custom_model_data": 99 }, "model": "tag:item/maps/-1" },
-		{ "predicate": { "custom_model_data": 100 }, "model": "tag:item/maps/0" },
-		{ "predicate": { "custom_model_data": 101 }, "model": "tag:item/maps/1" }
+		{ "predicate": { "custom_model_data": 99 }, "model": "tag:item/map_-1" },
+		{ "predicate": { "custom_model_data": 100 }, "model": "tag:item/map_0" },
+		{ "predicate": { "custom_model_data": 101 }, "model": "tag:item/map_1" }
     ]
 }
