@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "tag:item/mode_solos"
+    "layer0": "tag:item/type_solos"
   },
   "display": {
 		"thirdperson_righthand": {

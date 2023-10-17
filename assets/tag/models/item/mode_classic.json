@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "tag:item/mode_teams"
+    "layer0": "tag:item/mode_classic"
   },
   "display": {
 		"thirdperson_righthand": {

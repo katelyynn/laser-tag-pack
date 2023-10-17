@@ -28,8 +28,8 @@
 		}
 	},
 	"overrides": [
-        { "predicate": { "custom_model_data": 1 }, "model": "tag:item/mode_solos" },
-		{ "predicate": { "custom_model_data": 2 }, "model": "tag:item/mode_teams" },
+        { "predicate": { "custom_model_data": 1 }, "model": "tag:item/type_solos" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "tag:item/type_teams" },
 		{ "predicate": { "custom_model_data": 3 }, "model": "tag:item/matchmaking_start" },
 		{ "predicate": { "custom_model_data": 4 }, "model": "tag:item/matchmaking_cancel" },
 		{ "predicate": { "custom_model_data": 5 }, "model": "tag:item/add" },
@@ -41,9 +41,13 @@
 		{ "predicate": { "custom_model_data": 11 }, "model": "tag:item/ready_off" },
 		{ "predicate": { "custom_model_data": 12 }, "model": "tag:item/coin" },
 		{ "predicate": { "custom_model_data": 13 }, "model": "tag:item/globe" },
+		{ "predicate": { "custom_model_data": 14 }, "model": "tag:item/mode_classic" },
+		{ "predicate": { "custom_model_data": 16 }, "model": "tag:item/mode_critical" },
+		{ "predicate": { "custom_model_data": 19 }, "model": "tag:item/mode_mystery" },
 
 		{ "predicate": { "custom_model_data": 99 }, "model": "tag:item/map_-1" },
 		{ "predicate": { "custom_model_data": 100 }, "model": "tag:item/map_0" },
-		{ "predicate": { "custom_model_data": 101 }, "model": "tag:item/map_1" }
+		{ "predicate": { "custom_model_data": 101 }, "model": "tag:item/map_1" },
+		{ "predicate": { "custom_model_data": 102 }, "model": "tag:item/map_2" }
     ]
 }
