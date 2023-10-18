@@ -48,6 +48,7 @@
 		{ "predicate": { "custom_model_data": 99 }, "model": "tag:item/map_-1" },
 		{ "predicate": { "custom_model_data": 100 }, "model": "tag:item/map_0" },
 		{ "predicate": { "custom_model_data": 101 }, "model": "tag:item/map_1" },
-		{ "predicate": { "custom_model_data": 102 }, "model": "tag:item/map_2" }
+		{ "predicate": { "custom_model_data": 102 }, "model": "tag:item/map_2" },
+		{ "predicate": { "custom_model_data": 103 }, "model": "tag:item/map_3" }
     ]
 }
