@@ -44,6 +44,8 @@
 		{ "predicate": { "custom_model_data": 14 }, "model": "tag:item/mode_classic" },
 		{ "predicate": { "custom_model_data": 16 }, "model": "tag:item/mode_critical" },
 		{ "predicate": { "custom_model_data": 19 }, "model": "tag:item/mode_mystery" },
+		{ "predicate": { "custom_model_data": 20 }, "model": "tag:item/rating_comp" },
+		{ "predicate": { "custom_model_data": 21 }, "model": "tag:item/rating_casual" },
 		{ "predicate": { "custom_model_data": 30 }, "model": "tag:item/ready_teleport" },
 
 		{ "predicate": { "custom_model_data": 99 }, "model": "tag:item/map_-1" },
