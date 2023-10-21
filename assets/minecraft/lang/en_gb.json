@@ -4,5 +4,9 @@
   "language.region": "United Kingdom",
   "chat.type.text": "§8[§7⑩§8]§r %s §7›§r %s",
   "chat.type.announcement": "§8[§7⑩§8]§r [%s] §7›§r %s",
-  "chat.type.team.sent": "§8[§7⑩§8]§r %s %s §7›§r %s"
+  "chat.type.team.sent": "§8[§7⑩§8]§r %s %s §7›§r %s",
+  "multiplayer.player.joined": "§8[§a→§8]§r %s joined",
+  "multiplayer.player.joined.renamed": "§8[§a→§8]§r %s (%s) joined",
+  "multiplayer.player.left": "§8[§c→§8]§r %s left",
+  "screenshot.success": ""
 }
