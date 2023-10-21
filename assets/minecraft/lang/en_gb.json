@@ -2,7 +2,7 @@
   "language.code": "eng_GB",
   "language.name": "English",
   "language.region": "United Kingdom",
-  "chat.type.text": "%s: %s",
-  "chat.type.announcement": "%s; %s",
-  "chat.type.team.sent": "%s %s: %s"
+  "chat.type.text": "§8[§7⑩§8]§r %s §7›§r %s",
+  "chat.type.announcement": "§8[§7⑩§8]§r [%s] §7›§r %s",
+  "chat.type.team.sent": "§8[§7⑩§8]§r %s %s §7›§r %s"
 }
