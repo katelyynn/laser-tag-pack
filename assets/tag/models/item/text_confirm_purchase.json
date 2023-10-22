@@ -1,0 +1,19 @@
+{
+	"textures": {
+		"layer0": "tag:item/text_confirm_purchase"
+	},
+	"elements": [
+		{
+			"from": [-16, -1, 0],
+			"to": [16, 17, 2],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#layer0"},
+				"east": {"uv": [0, 0, 0.35556, 16], "texture": "#layer0"},
+				"south": {"uv": [0, 0, 5.68889, 16], "texture": "#layer0"},
+				"west": {"uv": [0, 0, 0.35556, 16], "texture": "#layer0"},
+				"up": {"uv": [0, 0, 5.68889, 1.77778], "texture": "#layer0"},
+				"down": {"uv": [0, 0, 5.68889, 1.77778], "texture": "#layer0"}
+			}
+		}
+	]
+}
