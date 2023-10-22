@@ -1,15 +1,15 @@
 prefix = input('prefix (eg. map, mode, rating, particle): ')
 selection = input('selection?: ')
-amount = input('how much?: ')
+amount = int(input('how much?: '))
 
 index = 0
 while index <= amount:
-    with open(f'{prefix}_{amount}.json', 'w') as file:
-        if selection == 'y':
+    if selection == 'n':
+        with open(f'{prefix}_{index}.json', 'w') as file:
             file.write(f'''{{
 	"parent": "minecraft:item/generated",
 	"textures": {{
-		"layer0": "tag:item/{prefix}_{amount}"
+		"layer0": "tag:item/{prefix}_{index}"
 	}},
 	"display": {{
 		"thirdperson_righthand": {{
@@ -36,11 +36,12 @@ while index <= amount:
 		}}
 	}}
 }}''')
-        else:
+    else:
+        with open(f'sel_{prefix}_{index}.json', 'w') as file:
             file.write(f'''{{
 	"parent": "minecraft:item/generated_18",
 	"textures": {{
-		"layer0": "tag:item/{prefix}_{amount}",
+		"layer0": "tag:item/{prefix}_{index}",
         "layer1": "tag:item/sel"
 	}},
 	"display": {{

@@ -1,9 +1,9 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "tag:item/map_4"
-  },
-  "display": {
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "tag:item/map_4"
+	},
+	"display": {
 		"thirdperson_righthand": {
 			"scale": [0, 0, 0]
 		},
