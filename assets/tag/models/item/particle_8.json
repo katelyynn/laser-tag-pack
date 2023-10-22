@@ -1,10 +1,9 @@
 {
-  "parent": "minecraft:item/generated_18",
-  "textures": {
-    "layer0": "tag:item/map_2",
-	"layer1": "tag:item/sel"
-  },
-  "display": {
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "tag:item/particle_8"
+	},
+	"display": {
 		"thirdperson_righthand": {
 			"scale": [0, 0, 0]
 		},
