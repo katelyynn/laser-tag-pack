@@ -20,5 +20,15 @@
         "sounds": [
             "tag:menu/close"
         ]
+    },
+    "menu.back": {
+        "sounds": [
+            "tag:menu/back"
+        ]
+    },
+    "menu.scroll": {
+        "sounds": [
+            "tag:menu/scroll"
+        ]
     }
 }
