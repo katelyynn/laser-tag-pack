@@ -8,5 +8,8 @@
   "multiplayer.player.joined": "§8[§a→§8]§r %s joined",
   "multiplayer.player.joined.renamed": "§8[§a→§8]§r %s (%s) joined",
   "multiplayer.player.left": "§8[§c→§8]§r %s left",
-  "screenshot.success": ""
+  "screenshot.success": "",
+  "container.enderchest": "",
+  "container.inventory": "",
+  "container.isLocked": ""
 }
