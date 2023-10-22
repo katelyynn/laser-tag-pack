@@ -55,6 +55,10 @@
 		{ "predicate": { "custom_model_data": 103 }, "model": "tag:item/map_3" },
 		{ "predicate": { "custom_model_data": 104 }, "model": "tag:item/map_4" },
 
+		{ "predicate": { "custom_model_data": 202 }, "model": "tag:item/sel_map_2" },
+		{ "predicate": { "custom_model_data": 203 }, "model": "tag:item/sel_map_3" },
+		{ "predicate": { "custom_model_data": 204 }, "model": "tag:item/sel_map_4" },
+
 		{ "predicate": { "custom_model_data": 500 }, "model": "tag:item/particle_0" },
 		{ "predicate": { "custom_model_data": 501 }, "model": "tag:item/particle_1" },
 		{ "predicate": { "custom_model_data": 502 }, "model": "tag:item/particle_2" },
