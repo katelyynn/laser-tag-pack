@@ -2,7 +2,9 @@
     "bleh.test": "bleh",
     "version": "2023.1023",
 
+    "player.score": "Score",
     "player.coins": "Coins",
+    "player.kills": "Kills",
 
     "player.ready": "Ready",
     "player.unready": "Not ready",
