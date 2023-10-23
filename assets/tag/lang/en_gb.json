@@ -75,9 +75,9 @@
     "lobby.cosmetic_selector.home.help.bio.0": "To buy cosmetics you need coins, which",
     "lobby.cosmetic_selector.home.help.bio.1": "you obtain from playtime, kills, and killstreaks.",
 
-    "lobby.cosmetic_selector.item.bought": "",
-    "lobby.cosmetic_selector.item.selected": "",
-    "lobby.cosmetic_selector.item.locked": "",
+    "lobby.cosmetic_selector.item.bought": "⑮ Bought",
+    "lobby.cosmetic_selector.item.selected": "→ Selected",
+    "lobby.cosmetic_selector.item.locked": "⑭ Locked",
 
     "lobby.cosmetic_selector.buy.confirm": "Confirm",
     "lobby.cosmetic_selector.buy.cancel": "Cancel",
