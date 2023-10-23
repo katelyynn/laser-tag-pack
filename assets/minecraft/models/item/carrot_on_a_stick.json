@@ -58,6 +58,10 @@
 		{ "predicate": { "custom_model_data": 39 }, "model": "tag:item/filled_slot_longer_shadow" },
 		{ "predicate": { "custom_model_data": 40 }, "model": "tag:item/text_buy2" },
 		{ "predicate": { "custom_model_data": 41 }, "model": "tag:item/text_buy3" },
+		{ "predicate": { "custom_model_data": 42 }, "model": "tag:item/text_home" },
+		{ "predicate": { "custom_model_data": 43 }, "model": "tag:item/text_home2" },
+		{ "predicate": { "custom_model_data": 44 }, "model": "tag:item/text_trails" },
+		{ "predicate": { "custom_model_data": 45 }, "model": "tag:item/text_trails2" },
 
 		{ "predicate": { "custom_model_data": 99 }, "model": "tag:item/map_-1" },
 		{ "predicate": { "custom_model_data": 100 }, "model": "tag:item/map_0" },
@@ -79,6 +83,8 @@
 		{ "predicate": { "custom_model_data": 207 }, "model": "tag:item/sel_map_7" },
 		{ "predicate": { "custom_model_data": 208 }, "model": "tag:item/sel_map_8" },
 		{ "predicate": { "custom_model_data": 209 }, "model": "tag:item/sel_map_9" },
+
+		{ "predicate": { "custom_model_data": 490 }, "model": "tag:item/cosmetic_arrow_trail" },
 
 		{ "predicate": { "custom_model_data": 500 }, "model": "tag:item/not_bought_particle_0" },
 		{ "predicate": { "custom_model_data": 501 }, "model": "tag:item/not_bought_particle_1" },
