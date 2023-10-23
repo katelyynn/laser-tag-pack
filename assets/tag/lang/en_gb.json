@@ -1,0 +1,45 @@
+{
+    "bleh.test": "bleh",
+    "version": "2023.1023",
+
+    "player.coins": "Coins",
+
+    "player.ready": "Ready",
+    "player.unready": "Not ready",
+
+    "item.ready_status": "Change ready status",
+    "item.knife": "Knife",
+    "item.crossbow_normal": "Crossbow",
+    "item.crossbow_machine": "Machine Crossbow",
+    "item.crossbow_rocket": "Rocket Crossbow",
+    "item.crossbow_poison": "Poison Crossbow",
+    "item.crossbow_glowing": "Spectral Crossbow",
+
+    "game.game_type": "Game type: ",
+    "game.game_type.0": "Free-for-all",
+    "game.game_type.1": "Teams",
+    "game.game_mode": "Game mode: ",
+    "game.game_mode.0": "Classic",
+    "game.game_mode.1": "One-in-the-chamber",
+    "game.game_mode.2": "Critical strike",
+    "game.game_mode.3": "Capture",
+    "game.game_mode.4": "Infection",
+    "game.game_mode.5": "Murder mystery",
+    "game.game_rating": "Game rating: ",
+    "game.game_rating.0": "Competitive",
+    "game.game_rating.1": "Arcade",
+
+    "lobby.game_type": "GAME TYPE:",
+    "lobby.game_type.0": "FFA",
+    "lobby.game_type.1": "TEAMS",
+    "lobby.game_mode": "GAME MODE:",
+    "lobby.game_mode.0": "CLASSIC",
+    "lobby.game_mode.1": "OITC",
+    "lobby.game_mode.2": "CRITICAL",
+    "lobby.game_mode.3": "CAPTURE",
+    "lobby.game_mode.4": "INFECTION",
+    "lobby.game_mode.5": "MUR/MYSTERY",
+    "lobby.game_rating": "GAME RATING:",
+    "lobby.game_rating.0": "COMPETITIVE",
+    "lobby.game_rating.1": "ARCADE"
+}
