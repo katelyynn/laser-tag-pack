@@ -1,0 +1,6 @@
+{
+	"parent": "tag:item/banner",
+	"textures": {
+		"banner": "tag:block/banner_1"
+	}
+}
