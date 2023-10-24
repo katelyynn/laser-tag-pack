@@ -62,7 +62,7 @@
     "lobby.game_start_map_dev.1": "MAP",
 
     "lobby.map_selector.map_status": "Map: ",
-    "lobby.map_selector.map_dev_mode_status": "DEV MODE",
+    "lobby.map_selector.map_status.dev_mode": "DEV MODE",
 
     "map.-1": "Test",
     "map.0": "Test2",
@@ -70,6 +70,8 @@
     "map.2": "Forest",
     "map.3": "Backrooms",
     "map.4": "Pumpkin Patch",
+
+    "lobby.map_selector.map_type": "Map type: ",
 
     "lobby.cosmetic_selector.home.help": "Coins?",
     "lobby.cosmetic_selector.home.help.bio.0": "To buy cosmetics you need coins, which",

@@ -64,6 +64,10 @@
 		{ "predicate": { "custom_model_data": 45 }, "model": "tag:item/text_trails2" },
 		{ "predicate": { "custom_model_data": 46 }, "model": "tag:item/help" },
 		{ "predicate": { "custom_model_data": 47 }, "model": "tag:item/sel_none" },
+		{ "predicate": { "custom_model_data": 48 }, "model": "tag:item/text_maps" },
+		{ "predicate": { "custom_model_data": 49 }, "model": "tag:item/text_maps2" },
+		{ "predicate": { "custom_model_data": 50 }, "model": "tag:item/type_ui_solos" },
+		{ "predicate": { "custom_model_data": 51 }, "model": "tag:item/type_ui_teams" },
 
 		{ "predicate": { "custom_model_data": 99 }, "model": "tag:item/map_-1" },
 		{ "predicate": { "custom_model_data": 100 }, "model": "tag:item/map_0" },
