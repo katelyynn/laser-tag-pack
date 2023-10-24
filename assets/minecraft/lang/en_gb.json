@@ -7,7 +7,7 @@
   "chat.type.team.sent": "§8[§7⑩§8]§r %s %s §7›§r %s",
   "multiplayer.player.joined": "§8[§a→§8]§r %s joined",
   "multiplayer.player.joined.renamed": "§8[§a→§8]§r %s (%s) joined",
-  "multiplayer.player.left": "§8[§c→§8]§r %s left",
+  "multiplayer.player.left": "§8[§c←§8]§r %s left",
   "screenshot.success": "",
   "container.enderchest": "",
   "container.inventory": "",

@@ -19,12 +19,12 @@
     "player.unready": "Not ready",
 
     "item.ready_status": "Change ready status",
-    "item.knife": "Knife",
-    "item.crossbow_normal": "Crossbow",
-    "item.crossbow_machine": "Machine Crossbow",
-    "item.crossbow_rocket": "Rocket Crossbow",
-    "item.crossbow_poison": "Poison Crossbow",
-    "item.crossbow_glowing": "Spectral Crossbow",
+    "item.weapon.knife": "Knife",
+    "item.weapon.crossbow_normal": "Crossbow",
+    "item.weapon.crossbow_machine": "Machine Crossbow",
+    "item.weapon.crossbow_rocket": "Rocket Crossbow",
+    "item.weapon.crossbow_poison": "Poison Crossbow",
+    "item.weapon.crossbow_glowing": "Spectral Crossbow",
 
     "game.game_type": "Game type: ",
     "game.game_type.0": "Free-for-all",
