@@ -63,6 +63,7 @@
 		{ "predicate": { "custom_model_data": 44 }, "model": "tag:item/text_trails" },
 		{ "predicate": { "custom_model_data": 45 }, "model": "tag:item/text_trails2" },
 		{ "predicate": { "custom_model_data": 46 }, "model": "tag:item/help" },
+		{ "predicate": { "custom_model_data": 47 }, "model": "tag:item/sel_none" },
 
 		{ "predicate": { "custom_model_data": 99 }, "model": "tag:item/map_-1" },
 		{ "predicate": { "custom_model_data": 100 }, "model": "tag:item/map_0" },
