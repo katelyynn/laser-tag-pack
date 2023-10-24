@@ -69,7 +69,6 @@
 		{ "predicate": { "custom_model_data": 50 }, "model": "tag:item/type_ui_solos" },
 		{ "predicate": { "custom_model_data": 51 }, "model": "tag:item/type_ui_teams" },
 		{ "predicate": { "custom_model_data": 52 }, "model": "tag:item/text_hats" },
-		{ "predicate": { "custom_model_data": 53 }, "model": "tag:item/text_hats2" },
 
 		{ "predicate": { "custom_model_data": 99 }, "model": "tag:item/map_-1" },
 		{ "predicate": { "custom_model_data": 100 }, "model": "tag:item/map_0" },
@@ -92,6 +91,7 @@
 		{ "predicate": { "custom_model_data": 208 }, "model": "tag:item/sel_map_8" },
 		{ "predicate": { "custom_model_data": 209 }, "model": "tag:item/sel_map_9" },
 
+		{ "predicate": { "custom_model_data": 489 }, "model": "tag:item/sel_none" },
 		{ "predicate": { "custom_model_data": 490 }, "model": "tag:item/cosmetic_arrow_trail" },
 
 		{ "predicate": { "custom_model_data": 500 }, "model": "tag:item/not_bought_particle_0" },
