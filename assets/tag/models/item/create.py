@@ -1,4 +1,4 @@
-prefix = input('prefix (eg. map, mode, rating, particle): ')
+prefix = input('prefix (eg. map, mode, rating, particle, hat): ')
 selection = input('selection?: ')
 amount = int(input('how much?: '))
 
