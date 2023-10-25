@@ -92,7 +92,8 @@
 		{ "predicate": { "custom_model_data": 209 }, "model": "tag:item/sel_map_9" },
 
 		{ "predicate": { "custom_model_data": 489 }, "model": "tag:item/sel_none" },
-		{ "predicate": { "custom_model_data": 490 }, "model": "tag:item/cosmetic_arrow_trail" },
+		{ "predicate": { "custom_model_data": 490 }, "model": "tag:item/cosmetic_trails" },
+		{ "predicate": { "custom_model_data": 491 }, "model": "tag:item/cosmetic_hats" },
 
 		{ "predicate": { "custom_model_data": 500 }, "model": "tag:item/not_bought_particle_0" },
 		{ "predicate": { "custom_model_data": 501 }, "model": "tag:item/not_bought_particle_1" },

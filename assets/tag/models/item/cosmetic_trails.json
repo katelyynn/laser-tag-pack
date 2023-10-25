@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "tag:item/cosmetic_arrow_trail"
+		"layer0": "tag:item/cosmetic_trails"
 	},
 	"display": {
 		"thirdperson_righthand": {
