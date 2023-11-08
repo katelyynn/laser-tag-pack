@@ -8,6 +8,9 @@
           "model": "minecraft:block/grass_block_2"
         },
         {
+          "model": "minecraft:block/grass_block_3"
+        },
+        {
           "model": "minecraft:block/grass_block",
           "y": 90
         },

@@ -8,28 +8,13 @@
         "model": "minecraft:block/stone"
       },
       {
-        "model": "minecraft:block/stone"
-      },
-      {
         "model": "minecraft:block/andesite"
       },
       {
-        "model": "minecraft:block/gravel"
+        "model": "minecraft:block/stone_4"
       },
       {
-        "model": "minecraft:block/dead_tube_coral_block"
-      },
-      {
-        "model": "minecraft:block/stone"
-      },
-      {
-        "model": "minecraft:block/andesite"
-      },
-      {
-        "model": "minecraft:block/gravel"
-      },
-      {
-        "model": "minecraft:block/stone"
+        "model": "minecraft:block/stone_2"
       },
       {
         "model": "minecraft:block/stone"
@@ -38,19 +23,28 @@
         "model": "minecraft:block/andesite"
       },
       {
-        "model": "minecraft:block/gravel"
+        "model": "minecraft:block/stone_4"
+      },
+      {
+        "model": "minecraft:block/stone_5"
+      },
+      {
+        "model": "minecraft:block/stone"
       },
       {
         "model": "minecraft:block/andesite"
       },
       {
-        "model": "minecraft:block/gravel"
+        "model": "minecraft:block/stone_4"
       },
       {
-        "model": "minecraft:block/dead_tube_coral_block"
+        "model": "minecraft:block/stone_4"
       },
       {
-        "model": "minecraft:block/cobblestone"
+        "model": "minecraft:block/stone_2"
+      },
+      {
+        "model": "minecraft:block/stone_3"
       }
     ]
   }
