@@ -69,6 +69,9 @@
 		{ "predicate": { "custom_model_data": 50 }, "model": "tag:item/type_ui_solos" },
 		{ "predicate": { "custom_model_data": 51 }, "model": "tag:item/type_ui_teams" },
 		{ "predicate": { "custom_model_data": 52 }, "model": "tag:item/text_hats" },
+		{ "predicate": { "custom_model_data": 53 }, "model": "tag:block/coin_copper" },
+		{ "predicate": { "custom_model_data": 54 }, "model": "tag:block/coin_silver" },
+		{ "predicate": { "custom_model_data": 55 }, "model": "tag:block/coin_gold" },
 
 		{ "predicate": { "custom_model_data": 99 }, "model": "tag:item/map_-1" },
 		{ "predicate": { "custom_model_data": 100 }, "model": "tag:item/map_0" },
