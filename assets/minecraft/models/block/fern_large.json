@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/tinted_cross_large",
+  "textures": {
+    "cross": "minecraft:block/fern_swamp"
+  }
+}

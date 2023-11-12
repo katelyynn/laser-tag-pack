@@ -1,0 +1,7 @@
+{
+    "parent": "tag:block/decal",
+	"textures": {
+		"texture": "minecraft:block/test",
+		"particle": "minecraft:block/test"
+	}
+}

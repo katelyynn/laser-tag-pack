@@ -1,0 +1,7 @@
+{
+    "parent": "tag:block/decal",
+	"textures": {
+		"texture": "minecraft:block/decal_mossy_cobble",
+		"particle": "minecraft:block/decal_mossy_cobble"
+	}
+}

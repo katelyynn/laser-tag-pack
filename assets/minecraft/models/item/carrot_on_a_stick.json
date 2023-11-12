@@ -72,6 +72,9 @@
 		{ "predicate": { "custom_model_data": 53 }, "model": "tag:block/coin_copper" },
 		{ "predicate": { "custom_model_data": 54 }, "model": "tag:block/coin_silver" },
 		{ "predicate": { "custom_model_data": 55 }, "model": "tag:block/coin_gold" },
+		{ "predicate": { "custom_model_data": 56 }, "model": "minecraft:block/fern_large" },
+		{ "predicate": { "custom_model_data": 57 }, "model": "tag:block/decal_moss_water" },
+		{ "predicate": { "custom_model_data": 58 }, "model": "tag:block/decal_mossy_cobble" },
 
 		{ "predicate": { "custom_model_data": 99 }, "model": "tag:item/map_-1" },
 		{ "predicate": { "custom_model_data": 100 }, "model": "tag:item/map_0" },
